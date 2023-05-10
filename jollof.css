@@ -1,0 +1,45 @@
+.header{
+background: aliceblue;
+/* width: 100%; height: 71px;  */
+margin: 8px;
+padding: 5px;
+color: teal;
+text-align: center;
+}
+.header:hover{
+    color: tomato;
+}
+.content{
+    padding: 20px;
+    word-spacing: normal;
+    line-height: 25px;
+    box-sizing: border-box;
+}
+
+.instruct img{
+    float: left;
+    padding: 20px;
+    margin-right: 1em;
+    width: 490px; height: 533px; 
+    
+}
+.button{
+    background-color: grey;
+    border: none;
+    color: whitesmoke;
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.body{
+    margin: 8px;
+    padding: 12px 0px 8px 0px;
+    text-align: left;
+    background-color: beige;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    
+}
